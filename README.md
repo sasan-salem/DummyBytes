@@ -6,5 +6,7 @@ This project is an example of PHP and DotNet for this tutorial:
 
 [Tutorial in Medium](https://medium.com/@sasan.salem/opening-of-your-website-in-the-viewers-external-browser-automatically-instead-of-instagram-s-8aca5ee7e22f)
 
+[Tutorial in Linkedin](https://www.linkedin.com/pulse/opening-your-website-viewers-external-browser-instead-sasan-salem)
+
 
 In this tutorial, you can learn how to do it.
